@@ -1,2 +1,2 @@
 # surface-css
-Flexible Layout System Framework
+Flexible Layout System
